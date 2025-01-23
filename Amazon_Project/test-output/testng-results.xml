@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-23T22:23:14 IST" name="Default suite" finished-at="2025-01-23T22:24:27 IST" duration-ms="73281">
+    <groups>
+    </groups>
+    <test started-at="2025-01-23T22:23:14 IST" name="Default test" finished-at="2025-01-23T22:24:27 IST" duration-ms="73281">
+      <class name="systemscenerios.Amazon_Project.TestCase5_Login_Search_product_cart_add_remove">
+        <test-method is-config="true" signature="launch()[pri:0, instance:systemscenerios.Amazon_Project.TestCase5_Login_Search_product_cart_add_remove@550dbc7a]" started-at="2025-01-23T22:23:14 IST" name="launch" finished-at="2025-01-23T22:23:29 IST" duration-ms="15369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="addtocart_logout()[pri:0, instance:systemscenerios.Amazon_Project.TestCase5_Login_Search_product_cart_add_remove@550dbc7a]" started-at="2025-01-23T22:23:29 IST" name="addtocart_logout" finished-at="2025-01-23T22:24:27 IST" duration-ms="57779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart_logout -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:systemscenerios.Amazon_Project.TestCase5_Login_Search_product_cart_add_remove@550dbc7a]" started-at="2025-01-23T22:24:27 IST" name="quit" finished-at="2025-01-23T22:24:27 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- systemscenerios.Amazon_Project.TestCase5_Login_Search_product_cart_add_remove -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
